@@ -16,9 +16,3 @@ def check_guess(intial_list,guess):
     else:
         print("better luck next time!!")
 check_guess(intial_list,player_guess)  
-
-        
-
-
-
-
