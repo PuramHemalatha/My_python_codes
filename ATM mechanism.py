@@ -38,6 +38,6 @@ elif operation == 2:
     ammount_withdraw = float(input("Please Enter The Amount To Be Withdrawn:"))
     print("Balance After Withdraw:",acct1.withdraw(ammount_withdraw))
 else:
-    print("Invalid operation. Please choose either 'deposit' or 'withdrawn'.")
+    print("Invalid operation. Please choose either 'deposit' or 'withdraw'.")
 
 print("THANKYOU PLEASE VISIT AGAIN!")
