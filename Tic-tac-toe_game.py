@@ -11,7 +11,7 @@ def display_board(board):
     print('   |   |')
     print(' ' + board[1] + ' | ' + board[2] + ' | ' + board[3])
     print('   |   |')
-test_board = ['#','X','O','X','O','X','O','X','O','X']
+test_board = ['#',' ',' ',' ',' ',' ',' ',' ',' ',' ']
 display_board(test_board)
 def player_input():
     marker = ''
